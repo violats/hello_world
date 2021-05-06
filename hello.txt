@@ -1,1 +1,3 @@
 Welcome to RISE
+
+I think Git is awesome!!
